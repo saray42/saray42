@@ -4,13 +4,13 @@
 ---
 * ### Competent
 
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,mongodb,java,react,vite,tailwind,express,nodejs,postgres)](https://skillicons.dev)
 
 * ### Advanced Beginner
 
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=postman,git,github,materialui,maven)](https://skillicons.dev)
 
 * ### Novice
 
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,electron,godot)](https://skillicons.dev)
 ---
