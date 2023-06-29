@@ -4,15 +4,22 @@
 ---
 * ### Competent[^1]
 
-   [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,mongodb,java,react,vite,tailwind,express,nodejs,postgres)](https://skillicons.dev)
+   [![Competent](https://skillicons.dev/icons?i=ts,js,html,css,mongodb,java,react,vite,tailwind,express,nodejs,postgres)](https://skillicons.dev)
 
 * ### Advanced Beginner[^1]
 
-   [![My Skills](https://skillicons.dev/icons?i=postman,git,github,materialui,maven)](https://skillicons.dev)
+   [![Advanced Beginner](https://skillicons.dev/icons?i=postman,git,github,materialui,maven)](https://skillicons.dev)
 
 * ### Novice[^1]
 
-   [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,electron,godot)](https://skillicons.dev)
+   [![Novice](https://skillicons.dev/icons?i=c,cpp,rust,electron,godot)](https://skillicons.dev)
 ---
+
+* Linux distros
+   * Debian
+   * Manjaro
+* Code editors/IDE's
+   * Visual Studio Code
+   * IntelliJ IDEA
 
 [^1]: Alwas eager to improve
