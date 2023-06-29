@@ -29,4 +29,4 @@ Feel free to contact me here
    * Visual Studio Code
    * IntelliJ IDEA
 
-[^1]: Alwas eager to improve
+[^1]: Alwas eager to improve and learn
