@@ -9,7 +9,7 @@
 
 * ### Advanced Beginner[^1]
 
-   [![Advanced Beginner](https://skillicons.dev/icons?i=postman,git,github,materialui,maven)](https://skillicons.dev)
+   [![Advanced Beginner](https://skillicons.dev/icons?i=postman,git,materialui,maven)](https://skillicons.dev)
 
 * ### Novice[^1]
 
