@@ -1,6 +1,11 @@
 # Hello visitor and welcome! :vulcan_salute::rainbow_flag:
 **I am Sarah (she/her)** and this is my Github profile! Down there you will find languages and other stuff! On my Github profile you will find my repositories!
 
+Connect with me!
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">]()
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]()
+
 ---
 
 * ### Competent[^1]
