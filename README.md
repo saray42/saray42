@@ -24,7 +24,7 @@ Feel free to contact me here
 
 * Linux distros
    * Debian
-   * Manjaro
+   * Fedora
 * Code editors/IDE's
    * Visual Studio Code
    * IntelliJ IDEA
